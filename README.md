@@ -1,8 +1,19 @@
-#UltraSonic
-some exlanations...  
+#Ultrasonic Ruler
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=_xOopBCNof0
+" target="_blank"><img src="http://img.youtube.com/vi/_xOopBCNof0/0.jpg " 
+alt="movie on youtube" width=50% border="10" /></a>  
+[movie on youtube](https://www.youtube.com/watch?v=_xOopBCNof0)  
 
+##What you need?
+* Arduino UNO (Micro is used in the movie.)  
+* Ultrasonic sensor - HC-SR04
+* Liquid Character Display (LCD) - QAPASS 1602A
+* Piezo Speker 
 
-###Pin assign
+##Pin assign
+<a><img src="https://github.com/matzTada/UltrasonicRuler/blob/master/UltraSonic_breadboard.png" 
+alt="UltraSonic_breadboard" width=50%></a>
+
 
 Arduino|Other  
 --- | ---   
@@ -26,22 +37,3 @@ A2 (16) |
 A3 (17) | 
 A4 (18) | 
 A5 (19) | 
-
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_MOVIE_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_MOVIE_ID_HERE/0.jpg " 
-alt="movie on youtube" width=40% border="10" /></a>  
-[movie on youtube](https://www.youtube.com/watch?v=YOUTUBE_MOVIE_ID_HERE)  
-you must change 3 places "YOUTUBE_MOVIE_ID_HERE" to your same movie id.
-
-Overview of this project.
-
-## Proparation
-Explanation.  
-
-* <https://matztada.github.io>  
-* [link](https://matztada.github.io)
-
-## Images
-
-<a><img src="https://matztada.github.io/images/logo.jpg" alt="" width=50%></a>  

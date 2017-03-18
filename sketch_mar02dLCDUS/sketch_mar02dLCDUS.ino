@@ -1,3 +1,11 @@
+/*
+ * Ultrasonic Ruler 
+ * 
+ * Check GitHub (https://github.com/matzTada/UltrasonicRuler) for further information.
+ * 
+ * 2017/3/19 modified by Tada Matz
+*/
+
 #include<LiquidCrystal.h>
 
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
