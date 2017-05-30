@@ -1,17 +1,17 @@
-#Ultrasonic Ruler
+# Ultrasonic Ruler
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=_xOopBCNof0
 " target="_blank"><img src="http://img.youtube.com/vi/_xOopBCNof0/0.jpg" 
 alt="movie on youtube" width=50% border="10" /></a>  
 [movie on youtube](https://www.youtube.com/watch?v=_xOopBCNof0)  
 
-##What you need?
+## What you need?
 * Arduino UNO (Micro is used in the movie.)  
 * Ultrasonic sensor - HC-SR04
 * Liquid Character Display (LCD) - QAPASS 1602A
 * Piezo Speker 
 
-##Pin assign
+## Pin assign
 <a><img src="https://github.com/matzTada/UltrasonicRuler/blob/master/UltraSonic_breadboard.png" 
 alt="UltraSonic_breadboard" width=50%></a>
 
